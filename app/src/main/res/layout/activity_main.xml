@@ -53,6 +53,7 @@
         android:contentDescription="@string/imageViewFromGallery"
         app:layout_constraintStart_toStartOf="@+id/guideline3"
         app:layout_constraintTop_toTopOf="@+id/guideline2"
-        tools:srcCompat="@tools:sample/avatars" />
+        tools:srcCompat="@tools:sample/avatars"
+        android:src="@drawable/dog"/>
 
 </android.support.constraint.ConstraintLayout>
